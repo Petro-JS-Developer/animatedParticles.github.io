@@ -1,0 +1,14 @@
+
+.active-items {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.ellipsis {
+  color: #6c757d;
+}
+
+.ellipsis:hover {
+  color: #6c757d;
+  background-color: #fff;
+}
